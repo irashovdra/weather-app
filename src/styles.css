@@ -4,11 +4,6 @@ body {
   flex-wrap: wrap;
 }
 
-img {
-  width: 100px;
-  height: 100px;
-}
-
 div {
   display: flex;
   flex-direction: column;

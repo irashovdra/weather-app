@@ -1,1 +1,2 @@
-import "./js/fetch-countries";
+// import "./js/weather";
+import "./js/newsAPI";
